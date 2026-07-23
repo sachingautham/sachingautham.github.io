@@ -1,24 +1,16 @@
 # main links links
 main:
   - title: "CV"
-    # url: /cv/
-    url: /files/Resume.pdf
+    url: /files/Sachin_MB_Gautham_CV.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
-  
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
-    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
-        
- #- title: "Blog Posts"
- #  url: /year-archive/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/
 
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Teaching"
+    url: /teaching/

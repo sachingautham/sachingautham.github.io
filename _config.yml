@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sachin's Homepage"
 title_separator          : "-"
 name                     : &name "Sachin MB Gautham"
-description              : &description "personal description"
+description              : &description "National Postdoctoral Fellow (ANRF) — Molecular Simulations & Machine Learning for Soft Matter and Nanomaterials"
 url                      : https://sachingautham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sachingautham/sachingautham.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sachin MB Gautham"
   avatar           : "photo1.png"
-  bio              : "Molecular Simulaions with Machine Learning Potentials\n with Prof. Tarak K Patra"
-  location         : "Chennai, India"
-  employer         : "Indian Institute of Technology Madras"
+  bio              : "National Postdoctoral Fellow (N-PDF), ANRF\n Condensed Matter Group, Dept. of Physics, IISc Bengaluru"
+  location         : "Bengaluru, India"
+  employer         : "Indian Institute of Science (IISc) Bengaluru"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=YGu_9R4AAAAJ"
-  email            : "gauthammbs7@gmail.com"
+  email            : "sachingthm7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"BorisMeinardus"
+  twitter          :
   vine             :
   weibo            :
   xing             :
