@@ -12,7 +12,7 @@ Hi, I'm Sachin, a National Postdoctoral Fellow (N-PDF), sponsored by the Anusand
 
 I completed my Ph.D. in Chemical Engineering at IIT Madras, advised by [Prof. Tarak K. Patra](https://sites.google.com/smail.iitm.ac.in/prg).
 
-I'm an interdisciplinary researcher working across statistical thermodynamics and soft matter physics, with a focus on multi-scale molecular modeling and machine learning. I use exascale computing to tackle problems in polymer science and nanocomposite design, and I'm currently extending this toward water-harvesting metal–organic and covalent–organic frameworks (MOFs and COFs), and machine-learning-guided design ofindustrial coatings. Longer term, I'm working towards an independent, interdisciplinary research lab that combines molecular theory, high-fidelity simulation, and AI-driven optimization to accelerate functional nanomaterial design.
+I'm an interdisciplinary researcher working across statistical thermodynamics and soft matter physics, with a focus on multi-scale molecular modeling and machine learning. I use exascale computing to tackle problems in polymer science and nanocomposite design, and I'm currently extending this toward water-harvesting metal–organic and covalent–organic frameworks (MOFs and COFs), and machine-learning-guided design of industrial coatings. Longer term, I'm working towards an independent, interdisciplinary research lab that combines molecular theory, high-fidelity simulation, and AI-driven optimization to accelerate functional nanomaterial design.
 
 Research interests:
 - Machine-learned potentials and deep-learning models of molecular interactions (potentials of mean force, force fields)
